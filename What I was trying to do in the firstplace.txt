@@ -1,0 +1,12 @@
+    /*
+    string base[5] = {"╔══════╗", "║      ║", "║      ║", "║      ║", "╚══════╝"};
+    string spades[3] = { "║  /\\  ║", "║ (  ) ║", "║  )(  ║" };
+    string hearts[3] = { "║ /\\/\\ ║", "║ \\  / ║", "║  \\/  ║" };
+    string clubs[3] = { "║  ()  ║", "║ ()() ║", "║  /\\  ║" };
+    string diamonds[3] = { "║  /\\  ║", "║ <  > ║", "║  \\/  ║" };
+    string back[5] = { "║┌────┐║", "║│ )( │║", "║│(  )│║", "║│ )( │║", "║└────┘║" };
+    */
+    
+    I truly hate how some IDE's handle special ASCII characters. 
+    In a world free of sin, card.cpp would house all the ascii art as string[]'s and print cards by simply editing those cards with a few tidy switch statements.
+    However, reality is often cruel, serving to wound the ethos of man.
